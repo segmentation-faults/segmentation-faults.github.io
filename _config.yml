@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Code is Fun - Segmentation Faults' Blog
-description: >- # this means to ignore newlines until "baseurl:"Write an awesome description for your new site here. You can edit this
-  Code is Fun - Segmentation Faults' Blog. Hope you enjoy the content.
+title: Segmentation Faults' Blog
+description: >-
+  Segmentation Faults' Blog. I write about programming, software development, and technology.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
